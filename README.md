@@ -1,5 +1,5 @@
 # Classification of B-Cell Lymphoblasts versus Normal Cells in White Blood Cells Microscopic Images
-The goal of this project, inspired by the ISBI 2019 C-NMC Challenge, was to develop a deep learning architecture that can solve the classification problem in cancer cell imaging. The full documentation can be found [here](Report.pdf).
+The goal of this project, inspired by the ISBI 2019 C-NMC Challenge, was to develop a deep learning architecture that can solve the classification problem in cancer cell imaging. The full documentation can be found [here](Report.pdf). The whole project was developed directly on Google Drive and only later was uploaded to GitHub.
 
 ## Introduction
 Acute Lymphoblastic Leukemia (ALL) is a fast-growing cancer of the blood and bone marrow, characterized by the development of many immature lymphocytes called lymphoblasts. It is the most common type of leukemia in children, particularly those between the ages of two and five, and the most common cause of death from pediatric cancers. Treatment depends on the type of ALL, age at diagnosis, and other factors. 
